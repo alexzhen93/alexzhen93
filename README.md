@@ -37,13 +37,13 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/alexzhen93/github-readme-stats)*
+**NOTE:** Most Used Languages is just a GitHub metric of languages in which I have the most code on GitHub.
 
-
-<a href="https://github.com/alexzhen93/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.alexzhen93.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Alex's github stats" />
-</a>
-<a href="https://github.com/alexzhen93/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.alexzhen93.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=material-palenight" />
-</a>
+<p align="center">
+  <a href="https://github.com/alexzhen93">
+    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/alexzhen93">
+    <img align="center" alt="top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
+</p>
