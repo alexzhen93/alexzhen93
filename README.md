@@ -51,4 +51,17 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alexzhen93&repo=portfolio&theme=tokyonight" />
 </a>
   
+### 📫 Let's Connect
+<a href='https://www.linkedin.com/in/alexjpzhen/'>
+<img align="left" alt="Alex's Linkedin" width="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linkedin/linkedin.png" />
+</a>
+
+<a href='https://www.github.com/alexzhen93'>
+<img align="left" alt="Alex's Github" width="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/github/github.png" />
+</a>
+
+<a href="mailto:jiapengzhen@outlook.com.com">
+<img align="left" width="28" alt="Alex's Mail" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mail/mail.png" />
+</a>
+  
 </p>
