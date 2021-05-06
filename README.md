@@ -1,4 +1,5 @@
-### Hi there, I'm [Alex Zhen](https://www.linkedin.com/in/alexjpzhen/), 👋 
+### Hi there, I'm [Alex Zhen](https://www.linkedin.com/in/alexjpzhen/), 👋
+
 ![Visitors](https://komarev.com/ghpvc/?username=alexzhen93&style=plastic&label=Visitors)
 
 <!--
@@ -17,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 I'm an aspiring software engineer. I graduated in 2020 from The City College of New York, where I studied Computer Science.
+
 - 👨‍💻 I’m currently working on learning Angular <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> and TypeScript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>.
 - 🌱 I’m currently learning how to be a software engineer/web developer.
 - 👯 I’m looking to collaborate on anything. I'm always open to learn new technology.
@@ -24,7 +26,7 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 - 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues)
 - ⚡ Fun fact: I love [9-Man volleyball](https://www.9-man.com) 🏐, playing video games 🎮 and learning new things 📚
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -49,6 +51,7 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 </p>
 
 ### 📫 Let's Connect
+
 <a href='https://www.linkedin.com/in/alexjpzhen/'>
 <img align="left" alt="Alex's Linkedin" width="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/linkedin/linkedin.png" />
 </a>
