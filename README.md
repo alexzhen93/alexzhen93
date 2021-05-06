@@ -44,7 +44,6 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Alex's github stats" />
 </a>
 <a href="https://github.com/alexzhen93/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=material-palenight" />
 </a>
 
