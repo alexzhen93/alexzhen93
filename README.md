@@ -57,7 +57,7 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 </a>
 
 <a href='https://www.github.com/alexzhen93'>
-<img align="left" alt="Alex's Github" width="28" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/github/github.png" />
+<img align="left" alt="Alex's Github" width="28" src="https://raw.githubusercontent.com/alexzhen93/alexzhen93/master/icons/github.svg" />
 </a>
 
 <a href="mailto:jiapengzhen@outlook.com.com">
