@@ -23,7 +23,6 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 - 🌱 I’m currently learning how to be a software engineer/web developer.
 - 👯 I’m looking to collaborate on anything. I'm always open to learn new technology.
 - 💻 Visit my personal portfolio [here](https://alexjpzhen.com)
-- 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues)
 - ⚡ Fun fact: I love [9-Man volleyball](https://www.9-man.com) 🏐, playing video games 🎮 and learning new things 📚
 
 **Languages and Tools:**
@@ -43,10 +42,10 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 
 <p align="center">
   <a href="https://github.com/alexzhen93">
-    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" />
+    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave" />
   </a>
   <a href="https://github.com/alexzhen93">
-    <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=dracula" />
+    <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=synthwave" />
   </a>
 </p>
 
