@@ -40,10 +40,11 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 **NOTE:** Most Used Languages is just a GitHub metric of languages in which I have the most code on GitHub.
 
 <p align="center">
+  <a href="">
+    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  </a>
+  <a href="">
+    <img align="center" alt="top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&langs_count=8&theme=tokyonight" />
+  </a>
   
-      <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-    
-      <img align="center" alt="top languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&langs_count=8&theme=tokyonight" />
-   
-
 </p>
