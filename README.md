@@ -42,10 +42,10 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 
 <p align="center">
   <a href="https://github.com/alexzhen93">
-    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave" />
+    <img align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=alexzhen93&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
   </a>
   <a href="https://github.com/alexzhen93">
-    <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=synthwave" />
+    <img align="center" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexzhen93&layout=compact&theme=default" />
   </a>
 </p>
 
