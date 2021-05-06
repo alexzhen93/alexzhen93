@@ -1,4 +1,4 @@
-### Hi there 👋 ![visitor](https://visitor-badge.glitch.me/badge?page_id=alexzhen93.alexzhen93)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=alexzhen93&label=VIEWS)
 
 <!--
 **alexzhen93/alexzhen93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
