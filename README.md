@@ -22,7 +22,6 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 - 👯 I’m looking to collaborate on anything. I'm always open to learn new technology.
 - 💻 Visit my personal portfolio [here](https://alexjpzhen.com)
 - 💬 Ask me about anything [here](https://github.com/ChibiKev/ChibiKev/issues)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexjpzhen/), [E-mail](mailto:jiapengzhen@outlook.com)
 - ⚡ Fun fact: I love [9-Man volleyball](https://www.9-man.com) 🏐, playing video games 🎮 and learning new things 📚
 
 **Languages and Tools:**  
