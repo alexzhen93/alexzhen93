@@ -1,4 +1,4 @@
-### Hi there 👋 ![](https://komarev.com/ghpvc/?username=alexzhen93&label=VIEWS)
+### Hi there 👋 ![](https://komarev.com/ghpvc/?username=alexzhen93&style=flat-square)
 
 <!--
 **alexzhen93/alexzhen93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
