@@ -36,7 +36,7 @@ I'm an aspiring software engineer. I graduated in 2020 from The City College of 
 
 ### 📫 Let's Connect!
 
-<a href='https://www.linkedin.com/in/alexjpzhen/'>
+<a href='https://www.linkedin.com/in/alexzhen93/'>
 <img align="left" alt="Alex's Linkedin" width="28" src="https://raw.githubusercontent.com/alexzhen93/alexzhen93/master/icons/linkedin.svg" />
 </a>
 
